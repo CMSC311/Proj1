@@ -59,8 +59,8 @@ At no time are you allowed to use any pre-built coded libraries. This project wi
 - For freshman and sophomore students
 
 ### Coding Requirements
-> HTML/XHTML/HTML 5
-> CSS
+- HTML/XHTML/HTML 5
+- CSS
 - PHP
 - MySQL
 - Nothing outside of this list
