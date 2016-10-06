@@ -58,21 +58,21 @@ At no time are you allowed to use any pre-built coded libraries. This project wi
 - Website map
 - For freshman and sophomore students
 
-## -- Coding Requirements --
+### Coding Requirements
 > HTML/XHTML/HTML 5
 > CSS
 - PHP
 - MySQL
 - Nothing outside of this list
 
-## -- Documentation Requirements --
-### Live Video (~5 minutes)
+### Documentation Requirements
+#### Live Video (~5 minutes)
 The video is be your means to prove you deserve full credit for everything BUT peer effort.  It can be as long as it needs to accomplish this. The opening "scene" of your video should have all of your teammate’s names and email addresses. You will place the video on YOUTUBE for easy access. Make sure it is set to “Unlisted”.  When submitting your project, have ONE text file named `VIDEO.txt` in the base directory with the URL to the video.
 
-### Written documentation
+#### Written documentation
 Everything needed to have another group setup a new server and get this running. The document must be called `README.docx` and must be editable.
 
-## -- Grading Details --
+### Grading Details
 - Appearance: 10%
 - Design of DB: 10%
 - Overall design of webpages, using SIMPLE non-JavaScript ways to strict or validate student: 10%
@@ -84,7 +84,7 @@ Everything needed to have another group setup a new server and get this running.
 - Peer Effort: 20%  (lack or “know it all”)
 - Documentation and Video: 20%
 
-## -- Submitting --
+###Submitting
 - Code in .zip through GL
 - Readme with link to live video
 - Submission style is same as CMSC 341
