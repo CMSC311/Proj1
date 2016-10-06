@@ -92,4 +92,5 @@ Everything needed to have another group setup a new server and get this running.
 starting from the same directory as your zip file:
 `cp proj1.zip /afs/umbc.edu/users/s/l/slupoli/pub/cs331/USERNAME/proj1`
 
-**Due: Please look at CMSC 331 Calendar on BB**
+**Due: Please look at CMSC 331 Calendar on BB** <br>
+[**EXAMPLE WEBSITE THE PROJECT IS BASED ON**](http://coeadvising.umbc.edu/01StudSignIn.html)
