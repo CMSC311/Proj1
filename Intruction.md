@@ -9,7 +9,7 @@ At no time are you allowed to use any pre-built coded libraries. This project wi
 1) Advisor creator
 -Collect basic data of Advisor
 
-2) Advisor meeting creator \n
+2) Advisor meeting creator
 -A lot of data, how will you make it look nice?
 -8:00-4:30 possible range, 30 mins per meeting
 -Office != meeting location
