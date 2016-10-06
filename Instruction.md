@@ -93,4 +93,4 @@ starting from the same directory as your zip file:
 `cp proj1.zip /afs/umbc.edu/users/s/l/slupoli/pub/cs331/USERNAME/proj1`
 
 **Due: Please look at CMSC 331 Calendar on BB** <br>
-<a href="http://coeadvising.umbc.edu/01StudSignIn.html" target="_blank">**EXAMPLE WEBSITE THE PROJECT IS BASED ON**</a>
+<a target="_blank" href="http://coeadvising.umbc.edu/01StudSignIn.html">**EXAMPLE WEBSITE THE PROJECT IS BASED ON**</a>
