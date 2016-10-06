@@ -1,0 +1,38 @@
+Advisor
+	Count (increment by 1)
+	FName (First name of advisor) - var(40)
+	LName (last name of advisor) - var(40)
+	Major (major of advisor) - str [dropdown bar on html form]
+	Location (Meeting location of advisor) - -var() [drop down for room location]  *Check whether	is asssigned or by choice and if advisor has permenant room
+
+Student
+	Count (increments by 1)
+	id (matches count of meeting) - int(can be NULL)
+	FName - var(40)
+	LName - var(40)
+	Major - str 
+	Indiv_group - var(1) - (I for individual, G for Group)
+	signed_up - Boolean [Boolean to determine if they signed up for a meeting]
+	
+	
+
+Meeting (Row is one time slot for one advisor)
+	Count (increment by 1)
+	Id (matches the count of advisor) 
+	start_time (start time of meeting)[range - 8am - 4pm]
+	end_time (end time of meeting) [range - 8:30 am - 4:30pm]
+	Day (M - T - W - T - F) *[may not need]
+	Date (Date of meeting)
+	max_student (max student in the meeting)[1 student or 10 students] [if group => 10 students; if individual => 1 student]
+	num_student (number of students in the meeting) [not > max_student][increments/decrements when student joins/cancel meeting]
+	
+	
+	Question for Project 1
+	How to research for the project? Ask advisor?
+	What data do we need to use?
+	Time range of table? Week? Month?
+	
+	
+	
+	
+	
