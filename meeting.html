@@ -6,7 +6,13 @@
 <body>
 	<form action="meeting.php" method="post" name="meeting">
 	Time Slots:
-	<input type="checkbox" name="timeSlots" value="8"> 8:00 - 8:30<br>
+	<input type="checkbox" name="timeSlots" value="8:00-8:30"> 8:00 - 8:30
+	SessionType:
+	<select name = "sessionType">
+		<option value="Individual">I</option>
+		<option value="Group">G</option>
+	</select>
+	<br>
 	<input type="submit" name="submit" value="Submit"> </form>
 </body>
 
