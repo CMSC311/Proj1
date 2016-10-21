@@ -5,7 +5,10 @@
 </head>
 
 <body>
-    <?php
+    <form action="meeting.php" method="post" name="meeting"> Time Slots:
+        <br>
+        <br>
+        <?php
 
         $date = new DateTime('8:30');
         $date->add(new DateInterval('PT30M'));
@@ -13,10 +16,7 @@
         
         
         
-    ?>
-        <form action="meeting.php" method="post" name="meeting"> Time Slots:
-            <br>
-            <br>
+        ?>
             <input type="checkbox" name="timeSlots" value="8"> 8:00 - 8:30
             <select name="sessionType">
                 <option value="Individual">I</option>
