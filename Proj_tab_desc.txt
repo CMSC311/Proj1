@@ -13,8 +13,6 @@ Student
 	Major - str 
 	Indiv_group - var(1) - (I for individual, G for Group)
 	signed_up - Boolean [Boolean to determine if they signed up for a meeting]
-	
-	
 
 Meeting (Row is one time slot for one advisor)
 	Count (increment by 1)
