@@ -4,18 +4,18 @@
 </head>
 <body>
 
-<form action = "studentForm.php" method = "post" name = "studentform">
+<form action = "studentMenu.php" method = "post" name = "studentform">
 
 <fieldset>
 <legend>Student Information:</legend>
 First name:<br>
-<input type = "text" name = "tb_fName"><br><br>
+<input type = "text" name = "tb_fName" required autofocus/><br><br>
 Last name:<br>
-<input type = "text" name = "tb_lName"><br><br>
+<input type = "text" name = "tb_lName" required/><br><br>
 Student ID:<br>
-<input type = "text" name = "tb_studentID"><br><br>
+<input type = "text" pattern = "[A-Z,a-z]{2}[0-9]{5}" placeholder = "TY47265" name = "tb_studentID" required/><br><br>
 Email:<br>
-<input type = "text" name = "tb_email"><br><br>
+<input type = "text" name = "tb_email" required/><br><br>
 Major:<br>
 <select name = "dd_major">
 	<option value = "Biological Sciences BA">Biological Sciences BA</option>
